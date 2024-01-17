@@ -33,29 +33,38 @@ Simple User Interface: The user interacts with the system through a console-base
 <br>
 
 ## 2. PREREQUISITES
+
 <br>
 
 A C compiler (such as GCC)
 
 Terminal or Command Prompt for execution
+
 <br>
 
 ## 3. Usage
+
+<br>
 
 Clone the repository to your local machine.
 
 git clone https://github.com/your-username/ATM-Simulation.git
 
 Compile the code using a C compiler.
+
 <br>
 
 ## 4. Code Overview
+
+<br>
 
 The code is organized as a simple ATM system with a basic authentication mechanism and options for balance inquiry, cash withdrawal, cash deposit, and quitting the system.
 
 <br>
 
 ## 5. Contributing
+
+<br>
 
 If you'd like to contribute to the project, please follow these steps:
 
@@ -69,11 +78,15 @@ Make your changes and submit a pull request.
 
 ## 6. License
 
+<br>
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <br>
 
 ## 7. Acknowledgments
+
+<br>
 
 The project is a simple implementation for educational purposes.
 
