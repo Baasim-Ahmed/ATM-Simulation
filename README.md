@@ -2,9 +2,11 @@
 
 
 This repository contains a simple ATM (Automated Teller Machine) system implemented in C. The program allows users to perform basic banking operations such as checking balance, withdrawing cash, and depositing cash.
+
 <br>
 
 __TABLE OF CONTENTS__
+
 <br>
 
 1. Features
@@ -14,9 +16,11 @@ __TABLE OF CONTENTS__
 5. Contributing
 6. License
 7. Acknowledgments
+
 <br>
 
 ## 1. FEATURES
+
 <br>
 
 Authentication: Users are required to enter a secret PIN to access their accounts.
@@ -30,6 +34,7 @@ Cash Deposit: Users can deposit cash into their accounts.
 Transaction Logging: The system logs each transaction.
 
 Simple User Interface: The user interacts with the system through a console-based menu.
+
 <br>
 
 ## 2. PREREQUISITES
