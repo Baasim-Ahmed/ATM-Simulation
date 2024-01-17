@@ -47,7 +47,7 @@ Terminal or Command Prompt for execution
 
 <br>
 
-## 3. Usage
+## 3. USAGE
 
 <br>
 
@@ -59,7 +59,7 @@ Compile the code using a C compiler.
 
 <br>
 
-## 4. Code Overview
+## 4. CODE OVERVIEW
 
 <br>
 
@@ -67,7 +67,7 @@ The code is organized as a simple ATM system with a basic authentication mechani
 
 <br>
 
-## 5. Contributing
+## 5. CONTRIBUTING
 
 <br>
 
@@ -81,7 +81,7 @@ Make your changes and submit a pull request.
 
 <br>
 
-## 6. License
+## 6. LICENSE
 
 <br>
 
@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <br>
 
-## 7. Acknowledgments
+## 7. ACKNOWLEDGMENTS
 
 <br>
 
